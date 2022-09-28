@@ -40,10 +40,8 @@ namespace DeviceManagement_WebApp.Repository
         }
 
         //Edit the specified item
-        public T Edit(Guid id, T item)
+        public T Edit(T item)
         {
-
-            
             if (item != null)  
             {
                 
@@ -59,14 +57,14 @@ namespace DeviceManagement_WebApp.Repository
             return  _context.Set<T>().Where(expression);
         }
 
-        //Retrieve all items
+        //Return all the data of T type instantiated 
         public IEnumerable<T> GetAll()
         {
 
             return _context.Set<T>().ToList();
         }
 
-        //Retrieve one specified item
+        //Return one specified item
         public T GetById(Guid? id)
         {
             if (id == null)
@@ -84,7 +82,7 @@ namespace DeviceManagement_WebApp.Repository
             
         }
 
-        //Check if an item exists
+        //Check if an item exists by using the GetById method
         public bool CheckIfItemExists(Guid? id)
         {
             var category =  GetById(id);

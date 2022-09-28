@@ -16,12 +16,12 @@ namespace DeviceManagement_WebApp.Interfaces
         //Create an item 
         void Create(T item);
         // Edit an item 
-        T Edit(Guid id, T item);
+        T Edit(T item);
         //delete an item 
         void DeleteConfirmed(Guid? id);
         
         IEnumerable<T> Find(Expression<Func<T, bool>> expression);
-        // check if item exist 
+        // check if an item exist 
         bool CheckIfItemExists(Guid? id);
 
 
