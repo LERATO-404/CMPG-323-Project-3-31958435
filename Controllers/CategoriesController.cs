@@ -106,7 +106,7 @@ namespace DeviceManagement_WebApp.Controllers
             {
                 try
                 {
-                    _unitOfWork.CategoryRepository.Edit(id, category);
+                    _unitOfWork.CategoryRepository.Edit(category);
                     _unitOfWork.Save();
                 }
                 catch (DbUpdateConcurrencyException)

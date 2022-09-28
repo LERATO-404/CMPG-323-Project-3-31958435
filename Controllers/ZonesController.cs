@@ -100,7 +100,7 @@ namespace DeviceManagement_WebApp.Controllers
             {
                 try
                 {
-                    _unitOfWork.ZoneRepository.Edit(id, zone);
+                    _unitOfWork.ZoneRepository.Edit(zone);
                     _unitOfWork.Save();
 
                 }

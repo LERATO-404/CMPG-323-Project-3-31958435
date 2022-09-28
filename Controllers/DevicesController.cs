@@ -98,7 +98,7 @@ namespace DeviceManagement_WebApp.Controllers
             {
                 try
                 {
-                    _unitOfWork.DeviceRepository.Edit(id, device);
+                    _unitOfWork.DeviceRepository.Edit(device);
                     _unitOfWork.Save();
 
                 }
