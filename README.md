@@ -56,77 +56,77 @@ https://iotdevicemanagementwebapp.azurewebsites.net/
 
 <a name="category"></a>      
 ## 4.Category <br>
-* Perform CRUD operations on Category <br>
+### Perform CRUD operations on Category <br>
 
 <a name="GetAllCat"></a>      
-### Get all Categories <br>
-<img src="Img/Categories_Connected_Office_Device_Management.png" width=200>
+* Get all Categories: Displays all the categories <br> <br>
+<img src="Img/Categories_Connected_Office_Device_Management.png" width=500>
 
 <a name="PostCat"></a>      
-### Create a new Category <br>
+* Create a new Category by entering the category name and description  <br>
 <img src="Img/Create_Category_Connected_Office_Device_Management.png" width=200>
 
 <a name="oneCat"></a>      
-### Get specific Category <br>
+* Get specific Category by clicking on the eye icon in the category screen<br>
 <img src="Img/Category_Details_Connected_Office_Device_Management.png" width=200>
 
 <a name="PatchCat"></a>      
-### Update an exisitin Category <br>
+* Update category details and click the save button <br>
 <img src="Img/Edit_Category_Connected_Office_Device_Management.png" width=200>
 
 <a name="deleteCat"></a>      
-### Delete a Category <br>
+* Delete a Category by clicking the delete button <br>
 <img src="Img/Delete_Category_Connected_Office_Device_Management.png" width=200>
 
 
 
 <a name="zone"></a>      
 ## 5.Zones <br>
-* Perform CRUD operations on Zone <br>
+### Perform CRUD operations on Zone <br>
 
 <a name="GetAllZones"></a>      
-### Get all Zones <br>
-<img src="Img/Zones_Connected_Office_Device_Management.png" width=200>
+* Get all Zones: Displays all the zones <br> <br>
+<img src="Img/Zones_Connected_Office_Device_Management.png" width=500>
 
 <a name="PostZones"></a>      
-### Create a new Zone <br>
+* Create a new Zone by entering the zone name and description <br>
 <img src="Img/Create_Zone_Connected_Office_Device_Management.png" width=200>
 
 <a name="GetOneZone"></a>      
-### Get specific Zone <br>
+* Get specific Zone by clicking on the eye icon in the zone screen <br>
 <img src="Img/Zone_Details.png" width=200>
 
 <a name="PatchZone"></a>      
-### Update an exisitin Zone <br>
+* Update Zone details and click the save button <br>
 <img src="Img/Edit_Zone_Connected_Office_Device_Management.png" width=200>
 
 <a name="deleteZone"></a>      
-### Delete a Zone <br>
+* Delete a Zone by clicking the delete button <br>
 <img src="Img/Delete_Zone_Connected_Office_Device_Management.png" width=200>
 
 
 <a name="device"></a>      
 ## 6.Device <br>
-* Perform CRUD operations on Device <br>	
+### Perform CRUD operations on Device <br>	
 
 <a name="GetAllDevices"></a>      
-### Get all devices <br>
-<img src="Img/Devices_Connected_Office_Device_Management.png" width=200>
+* Get all devices: Displays all the devices <br>
+<img src="Img/Devices_Connected_Office_Device_Management.png" width=500>
 
 <a name="PostDevice"></a>      
-### Create a new Device <br>
+* Create a new Device by entering the device name and selecting the category and zone of the device <br>
 <img src="Img/Create_Zone_Connected_Office_Device_Management.png" width=200>
 
 <a name="GetOneDevice"></a>      
-### Get specific Device <br>
+* Get specific Device y clicking on the eye icon in the device screen <br>
 <img src="Img/Device_Details_Connected_Office_Device_Management.png" width=200>
 
 <a name="PatchDevice"></a>      
-### Update an exisitin Device <br>
+* Update Device details and click the save button <br>
 <img src="Img/Edit_Device_Connected_Office_Device_Management.png" width=200>
 
 <a name="deleteDevice"></a>      
-### Delete a Device <br>
+* Delete a Device by clicking the delete button <br>
 <img src="Img/Delete_Device_Connected_Office_Device_Management.png" width=200>
 
 <a name="HaS"></a>
