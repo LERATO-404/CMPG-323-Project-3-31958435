@@ -40,18 +40,18 @@ https://iotdevicemanagementwebapp.azurewebsites.net/
 <a name="home"></a>      
 ## 1.Home <br>
 * The home screen before login <br>
-<img src="Img/Home_Page_Connected_Office_Device_Management.png" width=500>
+<img src="Img/Home_Page_Connected_Office_Device_Management.png" width=200>
 
 
 <a name="register"></a>      
 ## 2.Register <br>
 * Create an account with your emailAddress and password <br>
-<img src="Img/Register_Connected_Office_Device_Management.png" width=500>
+<img src="Img/Register_Connected_Office_Device_Management.png" width=200>
 
 <a name="login"></a>      
 ## 3.Login <br>
 * Login with your registered emailAddress and password <br>
-<img src="Img/Log_in_Connected_Office_Device_Management.png" width=500>
+<img src="Img/Log_in_Connected_Office_Device_Management.png" width=20>
 
 
 <a name="category"></a>      
@@ -60,23 +60,23 @@ https://iotdevicemanagementwebapp.azurewebsites.net/
 
 <a name="GetAllCat"></a>      
 ### Get all Categories <br>
-<img src="Img/Categories_Connected_Office_Device_Management.png" width=500>
+	<img src="Img/Categories_Connected_Office_Device_Management.png" width=200>
 
 <a name="PostCat"></a>      
 ### Create a new Category <br>
-<img src="Img/Create_Category_Connected_Office_Device_Management.png" width=500>
+	<img src="Img/Create_Category_Connected_Office_Device_Management.png" width=200>
 
 <a name="oneCat"></a>      
 ### Get specific Category <br>
-<img src="Img/Category_Details_Connected_Office_Device_Management.png" width=500>
+	<img src="Img/Category_Details_Connected_Office_Device_Management.png" width=200>
 
 <a name="PatchCat"></a>      
 ### Update an exisitin Category <br>
-<img src="Img/" width=500>
+	<img src="Img/Edit_Category_Connected_Office_Device_Management.png" width=200>
 
 <a name="deleteCat"></a>      
 ### Delete a Category <br>
-<img src="Img/Delete_Category_Connected_Office_Device_Management.png" width=500>
+	<img src="Img/Delete_Category_Connected_Office_Device_Management.png" width=200>
 
 
 
@@ -86,23 +86,23 @@ https://iotdevicemanagementwebapp.azurewebsites.net/
 
 <a name="GetAllZones"></a>      
 ### Get all Zones <br>
-<img src="Img/Zones_Connected_Office_Device_Management.png" width=500>
+	<img src="Img/Zones_Connected_Office_Device_Management.png" width=200>
 
 <a name="PostZones"></a>      
 ### Create a new Zone <br>
-<img src="Img/Create_Zone_Connected_Office_Device_Management.png" width=500>
+	<img src="Img/Create_Zone_Connected_Office_Device_Management.png" width=200>
 
 <a name="GetOneZone"></a>      
 ### Get specific Zone <br>
-<img src="Img/" width=500>
+	<img src="Img/Zone_Details.png" width=200>
 
 <a name="PatchZone"></a>      
 ### Update an exisitin Zone <br>
-<img src="Img/Edit_Zone_Connected_Office_Device_Management.png" width=500>
+	<img src="Img/Edit_Zone_Connected_Office_Device_Management.png" width=200>
 
 <a name="deleteZone"></a>      
 ### Delete a Zone <br>
-<img src="Img/Delete_Zone_Connected_Office_Device_Management.png" width=500>
+	<img src="Img/Delete_Zone_Connected_Office_Device_Management.png" width=200>
 
 
 <a name="device"></a>      
@@ -111,23 +111,23 @@ https://iotdevicemanagementwebapp.azurewebsites.net/
 
 <a name="GetAllDevices"></a>      
 ### Get all devices <br>
-<img src="Img/Devices_Connected_Office_Device_Management.png" width=500>
+	<img src="Img/Devices_Connected_Office_Device_Management.png" width=200>
 
 <a name="PostDevice"></a>      
 ### Create a new Device <br>
-<img src="Img/Create_Zone_Connected_Office_Device_Management.png" width=500>
+	<img src="Img/Create_Zone_Connected_Office_Device_Management.png" width=200>
 
 <a name="GetOneDevice"></a>      
 ### Get specific Device <br>
-<img src="Img/Device_Details_Connected_Office_Device_Management.png" width=500>
+	<img src="Img/Device_Details_Connected_Office_Device_Management.png" width=200>
 
 <a name="PatchDevice"></a>      
 ### Update an exisitin Device <br>
-<img src="Img/Edit_Device_Connected_Office_Device_Management.png" width=500>
+	<img src="Img/Edit_Device_Connected_Office_Device_Management.png" width=200>
 
 <a name="deleteDevice"></a>      
 ### Delete a Device <br>
-<img src="Img/Delete_Device_Connected_Office_Device_Management.png" width=500>
+	<img src="Img/Delete_Device_Connected_Office_Device_Management.png" width=200>
 
 <a name="HaS"></a>
 ## Help and Support<br>
